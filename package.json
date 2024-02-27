@@ -1,0 +1,29 @@
+{
+  "name": "turing-tc-v2",
+  "displayName": "Turing TC v2",
+  "description": "Turing TC v2",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "tct",
+      "aliases": ["Turing TC", "tct"],
+      "extensions": [".tct"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "tct",
+      "scopeName": "source.tct",
+      "path": "./syntaxes/tct.tmLanguage.json"
+    },
+    {
+      "scopeName": "source.regexp.tct",
+      "path": "./syntaxes/MagicRegExp.tmLanguage.json"
+  }]
+  }
+}
