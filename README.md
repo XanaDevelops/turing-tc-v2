@@ -1,7 +1,6 @@
 # turing-tc-v2 README
 
-This is the README for your extension "turing-tc-v2".
-
+Extension "turing-tc-v2".
 
 ## Features
 

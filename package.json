@@ -2,7 +2,8 @@
   "name": "turing-tc-v2",
   "displayName": "Turing TC v2",
   "description": "Turing TC v2",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "license":"MIT",
   "engines": {
     "vscode": "^1.86.0"
   },
