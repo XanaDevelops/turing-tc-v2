@@ -4,6 +4,7 @@
   "description": "Turing TC v2",
   "version": "1.0.0",
   "license":"MIT",
+  "publisher": "RealXana",
   "engines": {
     "vscode": "^1.86.0"
   },
