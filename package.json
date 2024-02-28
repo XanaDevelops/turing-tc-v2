@@ -20,10 +20,6 @@
       "language": "tct",
       "scopeName": "source.tct",
       "path": "./syntaxes/tct.tmLanguage.json"
-    },
-    {
-      "scopeName": "source.regexp.tct",
-      "path": "./syntaxes/MagicRegExp.tmLanguage.json"
-  }]
+    }]
   }
 }
